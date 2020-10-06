@@ -1,1 +1,1 @@
-# Programaci-n-Teor-a
+# Programacion teoria
